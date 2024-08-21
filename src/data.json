@@ -1,0 +1,120 @@
+{
+  "personalData": {
+    "name": "Włodzimierz Korza",
+    "phone": "+48 724-820-423",
+    "email": "wkorza@gmail.com",
+    "location": "Leszno, Poland",
+    "github": "https://github.com/WlodzimierzKorza",
+    "linkedin": "https://www.linkedin.com/in/wlodzimierzkorza/"
+  },
+  "summary": [
+    {
+      "title": "Professional summary",
+      "content": {
+        "text": "Hardworking and passionate job seeker with strong organizational skills eager to secure React Developer position. Ready to help team achieve company goals."
+      }
+    },
+    {
+      "title": "skills",
+      "content": {
+        "listType": "chip",
+        "list": [
+          {
+            "name": "Application Development"
+          },
+          {
+            "name": "UI/UX Critical Thinking"
+          },
+          {
+            "name": "JavaScript"
+          },
+          {
+            "name": "React.js"
+          },
+          {
+            "name": "Redux"
+          },
+          {
+            "name": "Next.js"
+          },
+          {
+            "name": "React Native"
+          },
+          {
+            "name": "UI Material"
+          },
+          {
+            "name": "SASS"
+          },
+          {
+            "name": "Git"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Experience",
+      "content": {
+        "listType": "list",
+        "list": [
+          {
+            "name": "Bitscopic",
+            "date": "August 2023 - Jun 2024",
+            "description": "Medical projects, migration from Ember.js to React.js, and interface refresh. My main role was to rebuild an application based on Ember.js using React.js, Zustand, and MUI Material. Additionally, I wrote end-to-end tests using Cypress, and I was responsible for code optimization and bug fixing.",
+            "skills": [
+              "Critical Thinking",
+              "Front-end Development",
+              "React",
+              "Type Script",
+              "MUI Material",
+              "Git",
+              "Zustand"
+            ]
+          },
+          {
+            "name": "Infonet Projekt SA",
+            "date": "November 2022 – March 2024",
+            "description": "In the first months of my work, I was responsible for testing and writing tests for a proprietary application for managing information systems within companies. Additionally, I was in charge of refreshing the application's interface and creating user documentation based on Next.js.",
+            "skills": [
+              "Application Development",
+              "UI/UX Critical Thinking",
+              "Java Script",
+              "React.js",
+              "Redux",
+              "Next.js",
+              "React Native",
+              "PHP",
+              "ASP.NET"
+            ]
+          },
+          {
+            "name": "Career break",
+            "date": "2019 - 2021",
+            "description": "I took care of my seriously ill wife for two years, and after her passing, I took care of our children."
+          },
+          {
+            "name": "Freelancer",
+            "date": "2010 - 2019",
+            "description": "In my self-employment period, I worked on many interesting projects, mainly being responsible for frontend development. I primarily worked with the React.js library."
+          }
+        ]
+      }
+    },
+    {
+      "title": "Languages",
+      "content": {
+        "listType": "list",
+        "list": [
+          { "name": "Polish - native language" },
+          { "name": "English - Upper intermediate" }
+        ]
+      }
+    },
+    {
+      "title": "Interests",
+      "content": {
+        "text": "Motorcycle riding (chasers), bodybuilding,"
+      }
+    }
+  ]
+}
